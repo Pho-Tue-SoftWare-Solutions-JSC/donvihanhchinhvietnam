@@ -30,6 +30,14 @@ Ngoài chức năng chính, nền tảng còn tích hợp nhiều tiện ích h�
 - 🧠 **Tra cứu Thông Tin IP / ASN**.
 - 📈 **Thống kê & Tổng hợp IP / ASN** theo vùng/ISP.
 - ✅ **Check RPKI**: xác thực chứng chỉ định tuyến IP.
+## 🔧 Tính năng đang phát triển
+
+- 🚀 Phát triển thêm **API Public Tra cứu Đơn vị hành chính** sau ngày 01/07/2025.
+- 🌐 Triển khai **Public API toàn bộ dịch vụ**: MST, Whois, IP, DNS, SSL, RPKI...
+- 🧩 Và nhiều tính năng mới khác:
+  - Đồng bộ dữ liệu địa danh với hệ thống GIS.
+  - Bản đồ hành chính tương tác theo thời gian thực.
+  - Dashboard giám sát dữ liệu mạng Việt Nam.
 
 ---
 
